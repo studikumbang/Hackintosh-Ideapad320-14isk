@@ -1,6 +1,10 @@
 # Hackintosh on Lenovo Ideapad 320-14isk
 ![hack](https://github.com/studikumbang/Hackintosh-Ideapad320-14isk/raw/main/Screen%20Shot%202021-08-21%20at%2006.09.07.png)
 
+## WARN!!
+- PLEASE INSERT YOUR OWN SMBIOS
+- DO WITH YOUR OWN RISK
+
 ## About this Laptop 💻
 Type | Spec | Status 
 :---------|:---------|:----------
@@ -17,3 +21,8 @@ Touchpad		| I2C ELAN0608 | Working
 Keyboard		| - | Working 
 Webcam		    | - | Working 
 Battery		    | Serial Number: L16M2PB2- 1229 Manufacturer: SMP Device Name:	L16M2PB2 | Working 
+
+## Thanks To:
+- Mbah bala and all of member [HL](https://t.me/HackintoshLover)
+- Github Account [gajjartejas](https://github.com/gajjartejas/Lenovo-Ideapad-320-15ISK-14ISK-Laptop-Hackintosh)
+- [Dortania](https://dortania.github.io)
