@@ -1,5 +1,5 @@
 # Hackintosh on Lenovo Ideapad 320-14isk
-![hack](Screen Shot 2021-08-21 at 06.09.07.png)
+![hack](https://github.com/studikumbang/Hackintosh-Ideapad320-14isk/raw/main/Screen%20Shot%202021-08-21%20at%2006.09.07.png)
 
 ## About this Laptop 💻
 Type | Spec | Status 
