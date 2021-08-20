@@ -1,10 +1,10 @@
-## About this Laptop
+# Hackintosh on Lenovo Ideapad 320-14isk
+![hack](Screen Shot 2021-08-21 at 06.09.07.png)
 
-### Original Hardware Info 💻
-
+## About this Laptop 💻
 Type | Spec | Status 
 :---------|:---------|:----------
-Computer		| Lenovo Ideapad 320-14ISK 80XH01DNIN   | Working 
+Computer		| Lenovo Ideapad 320-14ISK    | Working 
 BIOS Version	| LENOVO Insyde EFI(4WCN29WW) | Working 
 CPU				| DualCore Intel Core i3, 2000 MHz (20 x 100) | Working 
 Chipset			| Intel Sunrise Point-LP, Intel Skylake-U | Working 
